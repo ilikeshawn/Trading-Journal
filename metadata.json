@@ -1,0 +1,7 @@
+{
+  "name": "Capcomo",
+  "description": "An intelligent, automated trading journal that converts performance screenshots into structured data, visualizes performance via a calendar, and provides deep analytics for traders.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
